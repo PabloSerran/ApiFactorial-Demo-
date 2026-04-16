@@ -80,4 +80,4 @@ if __name__ == "__main__":
         
         ejecutar_seguro(func, nombre, *argumentos)
     
-    print("\nFinalizado el proceso de carga.")
+    print("Finalizado el proceso de carga.")
