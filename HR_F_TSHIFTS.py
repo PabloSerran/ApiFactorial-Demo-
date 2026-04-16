@@ -180,7 +180,6 @@ def RUN_X_SHIFTS_UPDATE(opcion):
 
 
 
-RUN_X_SHIFTS_UPDATE('a')
-#RUN_X_SHIFTS("a")      
+    
 
 
